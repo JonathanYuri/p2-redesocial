@@ -6,9 +6,15 @@ Na pasta de funcionalidades o propósito era fazer as funções serem possíveis
 já nas próximas etapas o objetivo era manter as etapas anteriores funcionando e aplicar outros conceitos,
 em OO deveria ser aplicado os conceitos de OO, o mesmo com Exceptions.
 
-Já em code smells era identificar e aplicar padrões de projeto para resolvê-los.<br><br>
+Já em code smells era identificar e aplicar padrões de projeto para resolvê-los.
+
+* [Funcionalidades](https://github.com/JonathanYuri/p2-redesocial#funcionalidades)
+* [Exceptions](https://github.com/JonathanYuri/p2-redesocial#exceptions)
+* [Code-smells](https://github.com/JonathanYuri/p2-redesocial#code-smells)
 
 # Funcionalidades
+
+<br>
 
 | Título | Descrição |
 | -------|-----------|
